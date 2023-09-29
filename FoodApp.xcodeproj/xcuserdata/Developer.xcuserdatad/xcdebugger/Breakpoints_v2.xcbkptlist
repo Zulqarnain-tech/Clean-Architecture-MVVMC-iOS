@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8DA0E6EB-DAC5-449F-A611-4DFEFDA5DAEA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A124890-D0C9-4D2D-80CD-DBF5CCF3DA03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(searchRecipeUseCase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB2C00D6-E51D-4A61-B5E5-916140D32C37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "init(recipeQueryRepository:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB963054-13DB-40CB-99B9-25A9FBE55655"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/View/RecipeSearchVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "782AC6F5-0B1C-45C1-BE67-A73E1E9AB04A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "callingSearchRecipe(searchedTag:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "782AC6F5-0B1C-45C1-BE67-A73E1E9AB04A - 39837d62772812e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodApp.RecipeSearchViewModel.callingSearchRecipe(searchedTag: Swift.String) -&gt; ()"
+                  moduleName = "FoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Desktop/FoodApp/FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "782AC6F5-0B1C-45C1-BE67-A73E1E9AB04A - be35b605c33a9578"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FoodApp.RecipeList&gt;) -&gt; () in FoodApp.RecipeSearchViewModel.callingSearchRecipe(searchedTag: Swift.String) -&gt; ()"
+                  moduleName = "FoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Desktop/FoodApp/FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "203">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "974539CC-E1D1-4DA0-865B-3C157F83EA6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "execute(searchRequest:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "974539CC-E1D1-4DA0-865B-3C157F83EA6F - 55a11e355c5e5099"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodApp.SearchRecipeUseCase.execute(searchRequest: FoodApp.RecipeSearch, completion: (Swift.Optional&lt;FoodApp.RecipeList&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Desktop/FoodApp/FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "974539CC-E1D1-4DA0-865B-3C157F83EA6F - c93cdf1c72cb5856"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FoodApp.RecipeList) -&gt; () in FoodApp.SearchRecipeUseCase.execute(searchRequest: FoodApp.RecipeSearch, completion: (Swift.Optional&lt;FoodApp.RecipeList&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Desktop/FoodApp/FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45CD6249-3109-45D6-8A55-D5912929D2D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "searchQuery(query:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42479454-DBE6-446A-A97F-BC9A72EBE401"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "searchQuery(query:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4A82834-DBC8-48D6-A30C-1932E6815355"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "execute(searchRequest:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "666369E1-0495-4E75-A6E4-0BBC6CCE471A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Presentation/ViewModel/RecipeSearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "callingSearchRecipe(searchedTag:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A16CC4BD-7CDB-40D1-91D4-DC5D8B9BE6A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Data/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getApiData(requestUrl:resultType:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A16CC4BD-7CDB-40D1-91D4-DC5D8B9BE6A2 - 48353f486c819d2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodApp.HttpUtility.getApiData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(requestUrl: Foundation.URL, resultType: &#x3c4;_0_0.Type, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "FoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Desktop/FoodApp/FoodApp/Data/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "A16CC4BD-7CDB-40D1-91D4-DC5D8B9BE6A2 - af55c7ed9344dea4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FoodApp.HttpUtility.getApiData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(requestUrl: Foundation.URL, resultType: &#x3c4;_0_0.Type, completionHandler: (&#x3c4;_0_0) -&gt; ()) -&gt; ()"
+                  moduleName = "FoodApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Desktop/FoodApp/FoodApp/Data/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47AADAE7-EE7A-4B8C-904D-C3E054574A49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodApp/Data/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getApiData(requestUrl:resultType:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
