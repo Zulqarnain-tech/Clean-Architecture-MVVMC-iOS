@@ -1,4 +1,6 @@
 # Clean Architecture Example Project.
+
+## Introduction
 This project is an example of clean architecture by Uncle Bob. Clean architecture is set of
 guidelines, Software patterns, SRP and communication between modules. It clears boundary between
 its layers with a strong focus on maintaining separation of concerns and making code more testable.
